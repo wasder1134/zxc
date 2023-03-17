@@ -1,0 +1,11 @@
+Model Information:
+* title:	Castom M4A1 COD Warzone (Fan model)
+* source:	https://sketchfab.com/3d-models/castom-m4a1-cod-warzone-fan-model-d7200349c7ea44bdab74974b9dd4a829
+* author:	Requital (https://sketchfab.com/requital_0111)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Castom M4A1 COD Warzone (Fan model)" (https://sketchfab.com/3d-models/castom-m4a1-cod-warzone-fan-model-d7200349c7ea44bdab74974b9dd4a829) by Requital (https://sketchfab.com/requital_0111) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
